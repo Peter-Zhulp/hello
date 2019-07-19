@@ -4,5 +4,6 @@ public class Hello{
 	}
 	public void test(){
 		System.out.println("测试方法");
+		System.out.println("branch2");
 	}
 }
