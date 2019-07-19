@@ -3,6 +3,6 @@ public class Hello{
 		System.out.println("Hello World!");
 	}
 	public void test(){
-		
+		System.out.println("测试方法");
 	}
 }
